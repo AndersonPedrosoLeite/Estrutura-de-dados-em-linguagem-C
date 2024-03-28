@@ -1,2 +1,2 @@
-# Estrutura de dados em linguagem C
-Exercícios de estrutura de dados 2° semestre
+Data Structure in C Language
+Data structure exercises 2nd semester
